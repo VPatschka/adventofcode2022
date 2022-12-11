@@ -55,4 +55,4 @@ for (const instruction of instructions) {
     }
 }
 
-console.log(`First: ${visited.length}`)
+console.log(`Result: ${visited.length}`)
